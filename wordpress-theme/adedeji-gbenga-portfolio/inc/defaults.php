@@ -64,6 +64,7 @@ function agp_defaults() {
             array( 'icon' => '💳', 'title' => 'PayVessel Interfaces', 'description' => 'Fintech-facing interfaces built with React.js and TailwindCSS, prioritizing usability and performance.', 'tags' => 'React.js, TailwindCSS, Fintech' ),
             array( 'icon' => '🎪', 'title' => 'Atlantic Exhibition Platform', 'description' => 'Event platform development focused on responsive delivery and business usability.', 'tags' => 'WordPress, Events' ),
             array( 'icon' => '👨‍👩‍👧', 'title' => 'Whittlesea Family Services (Safe Bridge)', 'description' => 'Custom WordPress build for a Melbourne family services provider offering supervised child contact and court-ready observational reporting, with a fully custom theme and branded page templates.', 'tags' => 'WordPress, Custom Theme, PHP' ),
+            array( 'icon' => '🛍️', 'title' => 'Africroots', 'description' => 'WordPress/WooCommerce redesign for an African ecommerce brand — new child theme, homepage layout, and shop experience.', 'tags' => 'WordPress, WooCommerce, Ecommerce' ),
         ),
 
         'contact_email'            => 'Adedejigbenga56@gmail.com',
